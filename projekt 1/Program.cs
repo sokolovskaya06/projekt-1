@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    namespace Первая_попытка_С1
+    namespace Первая_лаба_С1
     // Реализовать функцию возведения в квадрат произведения двух вещественных чисел 
 
     {
